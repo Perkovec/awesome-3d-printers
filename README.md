@@ -23,21 +23,44 @@
 
 |Name|Manufacturer|Build Volume|Features|Links|
 |-|-|-|-|-|
-|V-Minion 1.0| RatRig | 180x180x180mm | - | [Official Site](https://docs.ratrig.com/product-details/v-minion-1-0) |
+|V-Minion 1.0| RatRig | 180x180x180mm | //TODO | [Official Site](https://docs.ratrig.com/product-details/v-minion-1-0) |
 
 ## CoreXY
 
+|Name|Manufacturer|Build Volume|Features|Links|
+|-|-|-|-|-|
+| VORON 0 | VORON Design | 120x120x120mm | //TODO | [Official Site](https://vorondesign.com/voron0.2) <br/> [GitHub](https://github.com/VoronDesign/Voron-0) |
+| VORON 2 | VORON Design | 250x250x250mm <br/> 300x300x300mm <br/> 350x350x350mm <br/> Custom | //TODO | [Official Site](https://vorondesign.com/voron2.4) <br/> [GitHub](https://github.com/VoronDesign/Voron-2) |
+
 ## H-Bot
+
+|Name|Manufacturer|Build Volume|Features|Links|
+|-|-|-|-|-|
 
 ## Delta
 
+|Name|Manufacturer|Build Volume|Features|Links|
+|-|-|-|-|-|
+
 ## SCARA
+
+|Name|Manufacturer|Build Volume|Features|Links|
+|-|-|-|-|-|
 
 ## Belt
 
+|Name|Manufacturer|Build Volume|Features|Links|
+|-|-|-|-|-|
+
 ## Polar
 
+|Name|Manufacturer|Build Volume|Features|Links|
+|-|-|-|-|-|
+
 ## Other
+
+|Name|Manufacturer|Build Volume|Features|Links|
+|-|-|-|-|-|
 
 ## Contributing
 
