@@ -31,6 +31,9 @@
 |-|-|-|-|-|
 | VORON 0 | VORON Design | 120x120x120mm | //TODO | [Official Site](https://vorondesign.com/voron0.2) <br/> [GitHub](https://github.com/VoronDesign/Voron-0) |
 | VORON 2 | VORON Design | 250x250x250mm <br/> 300x300x300mm <br/> 350x350x350mm <br/> Custom | //TODO | [Official Site](https://vorondesign.com/voron2.4) <br/> [GitHub](https://github.com/VoronDesign/Voron-2) |
+| V-Chonk | RatRig | 180x180x180mm | //TODO | [Official Site](https://docs.ratrig.com/product-details/v-chonk) |
+| V-Core 3.1 | RatRig | 200x200x200mm <br/> 300x300x300mm <br/> 400x400x400mm <br/> 500x500x500mm | //TODO | [Official Site](https://docs.ratrig.com/product-details/v-core3-1) |
+| V-Core 4 | RatRig | 300x300x300mm <br/> 400x400x400mm <br/> 500x500x500mm | //TODO | [Official Site](https://docs.ratrig.com/product-details/v-core4) |
 
 ## H-Bot
 
